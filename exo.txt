@@ -4,8 +4,12 @@ blah
 blah
 blah
 blah
-Je m'appelle Blala_.
-Hier soir, je suis allé à Nantes_ et j'y ai rencontré Truc_.
+<<<<<<< HEAD
+_.
+=======
+Je m'appelle Camille.
+Hier soir, je suis allé au bar et j'y ai rencontré Simon.
+>>>>>>> a479a900656668e4f111eda9d7960560d300b193
 blah
 blah
 blah
@@ -16,8 +20,11 @@ blah
 blah
 blah
 blah
-En chemin, truc_ m'a cogné la tête avant de me voler mon telephone_.
-Depuis, je ne sais plus coder qu'en php_.
+<<<<<<< HEAD
+
+=======
+En chemin, un shooter m'a cogné la tête avant de me vDepuis, je ne sais plus coder qu'en assembleur.
+>>>>>>> a479a900656668e4f111eda9d7960560d300b193
 blah
 blah
 blah
